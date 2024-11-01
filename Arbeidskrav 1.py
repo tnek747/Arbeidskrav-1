@@ -3,7 +3,7 @@
 """
 Created on Sat Oct 12 13:43:36 2024
 
-@author: Kent
+@author: Kent KoKe
 """
 """ Grunnvariabler"""
 km=10000
